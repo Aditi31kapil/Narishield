@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bing Maps Example</title>
+</head>
+<body>
+    <div id="map" style="height: 400px;"></div>
+    <button onclick="getLocation()">Get Location and Send</button>
+
+    <script>
+        function loadMapScenario() {
+            const map = new Microsoft.Maps.Map('#map', {
+                credentials: 'AtzJtJUDyg8f_Bhdyu9Ms0o67sUfc8KhlWYd7yw5ekJdXs7jNeVOfI1YCDEo5GL_',
+                center: new Microsoft.Maps.Location(47.6062, -122.3321), // Default center (Seattle)
+                zoom: 12,
+            });
+
+            // You can add additional map functionalities or markers here
+        }
+
+        function getLocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(successCallback, errorCallback);
+            } else {
+                console.log("Geolocation is not supported by this browser.");
+            }
+
+            function successCallback(position) {
+                const latitude = position.coords.latitude;
+                const longitude = position.coords.longitude;
+
+                // Send the location data to your server using AJAX
+                const xhr = new XMLHttpRequest();
+                xhr.open('POST', 'store-location.php', true);
+                xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+                xhr.onreadystatechange = function () {
+                    if (xhr.readyState === 4 && xhr.status === 200) {
+                        console.log('Server response:', xhr.responseText);
+                        // Optionally, notify the user or perform additional actions
+                    }
+                };
+                xhr.send(latitude=${latitude}&longitude=${longitude});
+            }
+
+            function errorCallback(error) {
+                console.error("Error getting location: " + error.message);
+            }
+        }
+    </script>
+    <script type='text/javascript' src='https://www.bing.com/api/maps/mapcontrol?key=AtzJtJUDyg8f_Bhdyu9Ms0o67sUfc8KhlWYd7yw5ekJdXs7jNeVOfI1YCDEo5GL_&callback=loadMapScenario' async defer></script>
+</body>
+</html>

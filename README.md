@@ -13,7 +13,8 @@
 *   If this part will get implemented successfully then we will add some more features like professional chatbot from which you can talk to professionals/police/1098 facilities,unique trigger speech system that allows you to add a unique word of your choice and trigger the alert by the unique word just like okay google.
 
 
-App Photos Link:![image](<img width="926" alt="Screenshot 2024-02-25 154733" src="https://github.com/Aditi31kapil/Narishield/assets/151728032/773c8b78-eed1-4c10-862c-b173c374a3ad">)
+App Photos Link:![image](<img width="321" alt="Screenshot 2024-02-25 154914" src="https://github.com/Aditi31kapil/Narishield/assets/151728032/6b93b44f-1d67-403a-99a9-ecfb6f29a54b">)
+
 
 # Table of Contents:
 * Google MAP API
@@ -24,7 +25,7 @@ App Photos Link:![image](<img width="926" alt="Screenshot 2024-02-25 154733" src
 * Contributors:
 
 
-# Team Name: NighHack36
+# Team Name: HackHers
 
 * Aditi 
 * Kashish
@@ -36,10 +37,9 @@ App Photos Link:![image](<img width="926" alt="Screenshot 2024-02-25 154733" src
 
 
 
+<img width="926" alt="Screenshot 2024-02-25 154733" src="https://github.com/Aditi31kapil/Narishield/assets/151728032/59fc16df-bd31-42de-a7d1-0cfaeba45db8">
 
 
 
 
 
-![image](<img width="321" alt="Screenshot 2024-02-25 154914" src="https://github.com/Aditi31kapil/Narishield/assets/151728032/ea5e655e-c9a3-4d22-b9e2-5489f5c8f319">
-)

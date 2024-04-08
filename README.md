@@ -1,8 +1,5 @@
-  ![image](https://user-images.githubusercontent.com/78973509/114281861-737b5d00-9a5e-11eb-96ba-42bebbe0b3e1.png) 
-  
-* Demo Video [Link](https://youtu.be/SXnz1QGLXG8)
-* Live Website [link](https://nighthack36.github.io/Rakshak/)
-* Presentation [Link](https://drive.google.com/file/d/1VYw9GZCICA5GhzlSiX6PNzCICvWlQY-a/view?usp=sharing)
+  * Demo Video [Link](https://youtu.be/YWShJPxpFCM)
+
 
 
 ## Introduction of the project: Women Safety
@@ -16,7 +13,7 @@
 *   If this part will get implemented successfully then we will add some more features like professional chatbot from which you can talk to professionals/police/1098 facilities,unique trigger speech system that allows you to add a unique word of your choice and trigger the alert by the unique word just like okay google.
 
 
-App Photos Link:![image](https://user-images.githubusercontent.com/78973509/114292548-d72c7700-9aac-11eb-9ba9-025fb9ee7e0b.png)
+App Photos Link:![image](<img width="926" alt="Screenshot 2024-02-25 154733" src="https://github.com/Aditi31kapil/Narishield/assets/151728032/773c8b78-eed1-4c10-862c-b173c374a3ad">)
 
 # Table of Contents:
 * Google MAP API
@@ -44,4 +41,5 @@ App Photos Link:![image](https://user-images.githubusercontent.com/78973509/1142
 
 
 
-![image](https://user-images.githubusercontent.com/78973509/114281861-737b5d00-9a5e-11eb-96ba-42bebbe0b3e1.png)
+![image](<img width="321" alt="Screenshot 2024-02-25 154914" src="https://github.com/Aditi31kapil/Narishield/assets/151728032/ea5e655e-c9a3-4d22-b9e2-5489f5c8f319">
+)

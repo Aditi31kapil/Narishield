@@ -1,4 +1,3 @@
-<<<<<<< HEAD
   ![image](https://user-images.githubusercontent.com/78973509/114281861-737b5d00-9a5e-11eb-96ba-42bebbe0b3e1.png) 
   
 * Demo Video [Link](https://youtu.be/SXnz1QGLXG8)
@@ -30,10 +29,11 @@ App Photos Link:![image](https://user-images.githubusercontent.com/78973509/1142
 
 # Team Name: NighHack36
 
-* Astha 
-* Satya Srivastava
-* Yash
-* Dharmendra
+* Aditi 
+* Kashish
+* Udita
+* Shambhavi
+* Harnoor
 
 
 
@@ -45,6 +45,3 @@ App Photos Link:![image](https://user-images.githubusercontent.com/78973509/1142
 
 
 ![image](https://user-images.githubusercontent.com/78973509/114281861-737b5d00-9a5e-11eb-96ba-42bebbe0b3e1.png)
-=======
-# Narishield
->>>>>>> 112d0de897fe34f93c8b92d8b5b12aa91e63eb99
